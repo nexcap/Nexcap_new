@@ -16,8 +16,7 @@ function Lastfooter() {
           <div class="col-span-full hidden lg:col-span-1 lg:block mr-5">
             <img src={Footerimg} alt="" className="w-32" />
             <p className="text-gray-200 mt-2 ">
-              Nexcap-Website developers crafting project specific solution with
-              expertise
+              
             </p>
           </div>
 
