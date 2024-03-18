@@ -86,7 +86,7 @@ function Lastfooter() {
               </p>
               <p>
                 <div class="inline-flex gap-x-2 text-gray-400 ">Careers</div>{" "}
-                <span class="inline text-yellow-500">— We're hiring soon</span>
+                <span class="inline text-yellow-500">— We're hiring</span>
               </p>
             </div>
           </div>
