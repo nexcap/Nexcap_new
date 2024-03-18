@@ -79,7 +79,7 @@ export default () => {
     },
     {
       q: "What payment methods do you accept?",
-      a: "Currently we are accepting UPI transactions and cash .We are working to bring credit card , debit card, Netbanking modes soon.  ",
+      a: "Currently we are accepting UPI transactions and cash .We are working to bring credit card , debit card, Netbanking modes.  ",
     },
     {
       q: "What is the average response time for customer support?",
