@@ -1,0 +1,18 @@
+
+/*-----------------------------------*\
+  #PRELOADER
+\*-----------------------------------*/
+#preloader{
+    background-color: #000;
+    background-image: url(./loding.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%;
+  
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+  
+  

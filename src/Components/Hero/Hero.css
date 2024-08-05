@@ -1,0 +1,31 @@
+#nexcap {
+    
+    background: linear-gradient(to left, #f6b410 35%, #000000);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: gaseous 3s ease-in-out infinite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@keyframes gaseous {
+    0% {
+        background-position: 0% center;
+    }
+    50% {
+        background-position: 100% center;
+    }
+    100% {
+        background-position: 0% center;
+    }
+}
+
+
+
+
+
+
+
+
+
+

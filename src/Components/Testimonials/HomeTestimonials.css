@@ -1,0 +1,35 @@
+/* testimonial.css */
+
+/* Styles for arrows */
+.slick-prev,
+.slick-next {
+    width: 40px; 
+  height: 40px; 
+ 
+ 
+  
+ 
+  border-radius: 50%; 
+  transition: background-color 0.3s ease; 
+  position: absolute; 
+ 
+  transform: translateY(-50%); 
+  z-index: 1;
+}
+
+
+
+/* Styles for dots */
+.slick-dots li button:before {
+  color: #eaca16; 
+  font-size: medium;
+  transition: color 0.3s ease; 
+}
+
+.slick-dots li.slick-active button:before {
+  color: #ffffff; 
+}
+
+.slick-dots li button:hover:before {
+  color: #eaca16; 
+}
